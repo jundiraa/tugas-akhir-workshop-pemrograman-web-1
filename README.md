@@ -1,1 +1,2 @@
-tugas membuat website dengan php percobaan pertama
+tugas membuat website dengan php percobaan pertama.
+halaman awal: home.html
